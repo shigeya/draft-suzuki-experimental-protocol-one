@@ -21,8 +21,8 @@
 #
 # Delete this comment when you are done.
 #
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "I-D Template Experiment(1) - Experimental Protocol One"
+abbrev: "EPO"
 docname: draft-suzuki-experimental-protocol-one-latest
 category: info
 
@@ -37,9 +37,9 @@ pi: [toc, sortrefs, symrefs]
 
 author:
  -
-    name: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    name: Shigeya Suzuki
+    organization: Keio University
+    email: shigeya@wide.ad.jp
 
 normative:
 
