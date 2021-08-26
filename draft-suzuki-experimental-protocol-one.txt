@@ -2,18 +2,28 @@
 
 
 
-TODO Working Group                                             Y.N. Here
-Internet-Draft                                    Your Organization Here
+TODO Working Group                                             S. Suzuki
+Internet-Draft                                           Keio University
 Intended status: Informational                            26 August 2021
 Expires: 27 February 2022
 
 
-                           TODO - Your title
+         I-D Template Experiment(1) - Experimental Protocol One
              draft-suzuki-experimental-protocol-one-latest
 
 Abstract
 
    TODO Abstract
+
+Discussion Venues
+
+   This note is to be removed before publishing as an RFC.
+
+   Discussion of this document takes place on the mailing list (), which
+   is archived at .
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/shigeya/draft-suzuki-experimental-protocol-one.
 
 Status of This Memo
 
@@ -93,7 +103,7 @@ Acknowledgments
 
 Author's Address
 
-   Your Name Here
-   Your Organization Here
+   Shigeya Suzuki
+   Keio University
 
-   Email: your.email@example.com
+   Email: shigeya@wide.ad.jp
